@@ -24,4 +24,4 @@
 
 이 논문은 자연어 처리 분야에 큰 영향을 미쳤으며, BERT, GPT 등 현대적인 언어 모델의 기초가 되었습니다.
 
-#### [▶︎ PPT 보러가기](https://github.com/hwd0ng/DL_Binary_classification/blob/main/%E1%84%8E%E1%85%B5%E1%84%90%E1%85%A1vs%E1%84%89%E1%85%A1%E1%84%8C%E1%85%A1_%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8.ipynb)
+#### [▶︎ PPT 보러가기](https://github.com/hwd0ng/Attention_is_All_you_need/blob/main/Transformer%20%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB.pdf)
