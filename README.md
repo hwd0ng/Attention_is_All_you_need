@@ -25,4 +25,4 @@
 
 이 논문은 자연어 처리 분야에 큰 영향을 미쳤으며, BERT, GPT 등 현대적인 언어 모델의 기초가 되었습니다.
 
-#### [▶︎ PPT 보러가기](https://github.com/hwd0ng/You_Only_Look_Once/blob/main/YOLO_v1%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD.pdf)
+#### [▶︎ PPT 보러가기](https://github.com/hwd0ng/Attention_is_All_you_need/blob/main/Transformer%20%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB.pdf)
