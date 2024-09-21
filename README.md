@@ -1,5 +1,6 @@
 ## "Attention Is All You Need"
 - 2017년 Google Brain 팀에서 발표한 획기적인 논문입니다.
+- [논문 원문](https://arxiv.org/pdf/1706.03762)
 
 ### 1. 트랜스포머(Transformer) 아키텍처 소개:
 - 기존의 순환 신경망(RNN)이나 합성곱 신경망(CNN)을 사용하지 않고, 오직 어텐션(attention) 메커니즘만을 사용한 새로운 신경망 구조를 제안했습니다.
